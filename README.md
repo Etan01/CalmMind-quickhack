@@ -1,4 +1,4 @@
-# Calm Mind
+# QuickHack 2021 - Calm Mind 
 
 #### <u>Open Category</u>
 
