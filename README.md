@@ -4,15 +4,10 @@
 
 Team members: 
 
-1. Ashley Ooi Yan-Lin (31171095)
-   - +60 16-469 9261
-2. Tan Eng Teck (31526802)
-   - +60 17-645 9689
-3. Shamrethan Balendran (31084338)
-   - +60 18-291 8436
-4. Lim Ke An (31898548)
-   - +60 17-743 2663
-
+1. Ashley Ooi Yan-Lin 
+2. Tan Eng Teck 
+3. Shamrethan Balendran
+4. Lim Ke An 
 
 
 #### Project background
